@@ -1,8 +1,6 @@
 # Hola! Soy María Belén Desvoignes 👋
 
 🎓 Estudiante de Licenciatura en Sistemas en la UNLP  
-💻 Apasionada por el desarrollo web y la construcción de aplicaciones reales  
-📍 Argentina
 
 ---
 
